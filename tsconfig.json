@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "lib": ["es5", "es6", "es2018", "dom"],
+    "types": [],
     "module": "commonjs",
     "outDir": "build",
     "sourceMap": true,
@@ -10,7 +11,6 @@
     "noImplicitAny": true,
     "noImplicitReturns": true,
     "noImplicitThis": true,
-    "noImplicitUseStrict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true
   },
